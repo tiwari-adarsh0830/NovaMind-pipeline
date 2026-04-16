@@ -1,0 +1,30 @@
+{
+  "campaign_id": "camp_how_ai_is_changing_creati_20260415_234123",
+  "content_id": "how_ai_is_changing_creati_20260415_234123",
+  "blog_title": "How AI is Changing Creative Agency Workflows in 2025",
+  "send_date": "2026-04-15T23:41:23.971217",
+  "total_recipients": 7,
+  "emails": {
+    "solo_freelancer": {
+      "email_id": "mock_email_solo_freelancer_234123",
+      "email_name": "NovaMind Weekly | Solo Freelancer | Apr 15 2026",
+      "subject": "Stop drowning in admin (AI can help)",
+      "recipient_count": 2,
+      "sent_at": "2026-04-15T23:41:23.971224"
+    },
+    "agency_owner": {
+      "email_id": "mock_email_agency_owner_234123",
+      "email_name": "NovaMind Weekly | Creative Agency Owner | Apr 15 2026",
+      "subject": "Your competition is already using AI (are you?)",
+      "recipient_count": 3,
+      "sent_at": "2026-04-15T23:41:23.971229"
+    },
+    "project_manager": {
+      "email_id": "mock_email_project_manager_234123",
+      "email_name": "NovaMind Weekly | Agency Project Manager | Apr 15 2026",
+      "subject": "Your tools aren't talking to each other",
+      "recipient_count": 2,
+      "sent_at": "2026-04-15T23:41:23.971233"
+    }
+  }
+}
